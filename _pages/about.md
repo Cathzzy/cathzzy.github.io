@@ -32,8 +32,12 @@ Clinical Expereince
 
 For more info
 ======
+If you'd like to know about about me, please feel free to take a look at the following:
+
 CV
 ------
+See my CV here:
 
 Contact: 
 ------
+Email:
