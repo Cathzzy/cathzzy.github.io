@@ -23,9 +23,9 @@ repository               : "Cathzzy/cathzzy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Catherine Zhang"
   pronouns         : "she/her"  
-  bio              : "I research decision-making and learning in anxiety-related disorders using computational models like HDDM and reinforcement learning."
+  bio              : "I research decision-making and learning in anxiety-related disorders using mathematical and computational models."
   location         : "Earth"
   employer         : "Emory University, University of Washington"
   uri              : "https://cathzzy.github.io"
