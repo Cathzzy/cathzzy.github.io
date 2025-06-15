@@ -27,8 +27,19 @@ Posters & Presentations
 
 
 Clinical Expereince
+======
+
+CALM Clinic at UW
 ------
 
+Crisis Textline
+------
+
+Teaching Experience
+======
+
+PSYCH448 Advanced Linear Regression at UW
+------
 
 For more info
 ======
