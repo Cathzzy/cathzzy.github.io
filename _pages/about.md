@@ -11,35 +11,14 @@ This is Catherine Zhang.
 
 Education
 ======
-
+I just recently graduated from University of Washington with a double major in B.A. Mathematics and Psychology (Honors), Class of 2025. 
 
 Research Interest
 ======
 1. 
 
-Manuscripts
-------
 
 
-Posters & Presentations
-------
-
-
-
-Clinical Expereince
-======
-
-CALM Clinic at UW
-------
-
-Crisis Textline
-------
-
-Teaching Experience
-======
-
-PSYCH448 Advanced Linear Regression at UW
-------
 
 For more info
 ======
@@ -51,4 +30,3 @@ See my CV here:
 
 Contact: 
 ------
-Email:
