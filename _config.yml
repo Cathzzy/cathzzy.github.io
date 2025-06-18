@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Catherine Zhang"
   pronouns         : "she/her"  
-  bio              : "I research decision-making and learning in anxiety-related disorders using mathematical and computational models."
+  bio              : "I'm interested in research on decision-making and learning in anxiety-related disorders that uses mathematical and computational models."
   location         : "Earth"
   employer         : "Emory University, University of Washington"
   uri              : "https://cathzzy.github.io"
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5903-186X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
