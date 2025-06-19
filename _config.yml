@@ -221,7 +221,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  poster:
+  posters:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -267,10 +267,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _poster
+  # _posters
   - scope:
       path: ""
-      type: poster
+      type: posters
     values:
       layout: single
       author_profile: true
