@@ -6,4 +6,4 @@ permalink: /posters/
 ---
 This poster explores family accommodation in subclinical OCD using decision-making models.
 
-<iframe src="/images/UW%20Honors.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="/images/UW Psych Honors_Zhang.pdf" width="100%" height="600px" style="border:none;"></iframe>
